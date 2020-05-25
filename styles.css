@@ -1,0 +1,31 @@
+/****************************************
+
+Author: Joseph Mike
+Date: 05/24/2020
+
+*****************************************/
+
+*{
+    
+    color: #2B3E42;
+    background-color: #F1F0FF;
+}
+
+body {
+    margin: 10px 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+header {
+    background-color: #CCCCFF;
+    color: #000066;
+    border: 5px solid #990066;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header h1, h3{
+    background-color: #CCCCFF;
+    color: #000066;
+}
